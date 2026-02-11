@@ -11,7 +11,7 @@
 -Supported 40+ students per semester in project management and information security.
 -Conducted tutoring sessions and graded 100+ assignments with structured feedback.
 -Designed supplementary resources to reinforce complex topics and improve engagement.
-# Quality Assurance Engineer – Tata Consultancy Services (Nov 2021 – Jul 2024)
+#  Softwaare Engineer – Tata Consultancy Services (Nov 2021 – Jul 2024)
 -Designed and executed 200+ API test cases using Postman, reducing post-release bugs by 30%.
 -Migrated and validated datasets to AWS (EC2, CloudWatch, PrivX, OutsideView) with 100% accuracy.
 -Improved Agile sprint efficiency by 20% through defect tracking and JIRA reporting.
