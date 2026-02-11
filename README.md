@@ -36,11 +36,14 @@ Achieved 82% prediction accuracy and created visualizations with Matplotlib & Pa
 ---
 
 ## 🔧 Skills
-- **Programming:** Python, Java, SQL  
-- **Web Development:** WordPress, HTML, CSS, JavaScript  
-- **AI/ML:** Data Preprocessing, Scikit-learn, Regression Models  
-- **Tools & Platforms:** GitHub, AWS Basics, Hostinger, Elementor, Jupyter Notebook  
-- **Methodologies:** Agile, Scrum  
+- **Programming:** Python, SQL, JavaScript
+- **Scientific & Data Tools:** Pandas, NumPy, Matplotlib, OpenCV 
+- **Databases:** PostgreSQL, MySQL, MongoDB 
+- **Cloud & Systems:** AWS (EC2, RDS, S3), REST APIs
+- **Software Engineering:** OOP, Data Structures, Algorithms, Unit Testing
+- **Version Control:** Git, GitHub
+- **Development Practices:** Agile/Scrum, CI/CD (Jenkins), Test Automation
+- **QA & Testing:** Manual Testing, API Testing, Test Management Tools, QA Strategy, Defect Management, Analytical Skills
 
 ---
 
